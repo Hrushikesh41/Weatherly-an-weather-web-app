@@ -2,7 +2,7 @@
 
 Weatherly is a web app that provides you with weather of given location
 
-It os a complete responsive website that can be viewed on any device.
+It is a complete responsive website that can be viewed on any device.
 
 Technology used :-
 1. HTML
