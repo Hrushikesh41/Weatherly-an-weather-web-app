@@ -8,3 +8,5 @@ Technology used :-
 1. HTML
 2. CSS
 3. JavaScript
+
+Link for the Same : https://hrushikesh41.github.io/Weatherly-an-weather-web-app/
